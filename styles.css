@@ -41,8 +41,8 @@ body {
     top: 50%;
     left: 50%;
     translate: -50% -50%;
-    width: 200%;
-    height: 110%;
+    width: 100%;
+    height: 70%;
     rotate: -2deg;
     background: #1b0642;
   }
