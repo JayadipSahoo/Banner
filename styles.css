@@ -1,6 +1,7 @@
 body {
     margin: 0;
     font-family: "Euclid Circular A";
+    overflow-x:hidden;
   }
   
   section {
@@ -42,7 +43,7 @@ body {
     left: 50%;
     translate: -50% -50%;
     width: 200%;
-    height: 70%;
+    height: 110%;
     rotate: -2deg;
     background: #1b0642;
   }
