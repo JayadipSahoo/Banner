@@ -20,8 +20,8 @@ body {
     align-items: center;
     gap: 50px;
     justify-content: space-between;
-    padding-top: 100px;
-    padding-bottom: 100px;
+    padding-top: 90px;
+    padding-bottom: 90px;
     min-height: 40vw;
     margin-bottom: 40px;
   }
@@ -41,7 +41,7 @@ body {
     top: 50%;
     left: 50%;
     translate: -50% -50%;
-    width: 100%;
+    width: 200%;
     height: 70%;
     rotate: -2deg;
     background: #1b0642;
